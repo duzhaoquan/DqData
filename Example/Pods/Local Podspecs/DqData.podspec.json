@@ -1,0 +1,22 @@
+{
+  "name": "DqData",
+  "version": "0.1.0",
+  "summary": "A short description of DqData.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dzq/DqData",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dzq": "dzq@aldelo.com"
+  },
+  "source": {
+    "git": "https://github.com/dzq/DqData.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DqData/Classes/**/*"
+}

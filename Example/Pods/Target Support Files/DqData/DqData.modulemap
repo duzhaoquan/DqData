@@ -1,0 +1,6 @@
+framework module DqData {
+  umbrella header "DqData-umbrella.h"
+
+  export *
+  module * { export * }
+}

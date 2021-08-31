@@ -1,0 +1,6 @@
+framework module Pods_DqData_Example {
+  umbrella header "Pods-DqData_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
