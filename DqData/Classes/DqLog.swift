@@ -7,7 +7,7 @@
 
 import UIKit
 
-class DqLog: NSObject {
+public class DqLog: NSObject {
     func logPrint(_ str: String)  {
         print("DqLog----" + str)
     }
