@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'DqData/Classes/**/*'
+  s.source_files = 'DqData/Classes/*'
   
   # s.resource_bundles = {
   #   'DqData' => ['DqData/Assets/*.png']
